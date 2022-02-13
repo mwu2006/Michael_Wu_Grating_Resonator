@@ -1,0 +1,80 @@
+Ansys Lumerical 2022 R1 FDTD Solver Version 8.27.2898 (Windows 64bit)
+ expires (month/day/year): 4/30/2022
+using config file: Ansys Licensing set with ANSYSLMD_LICENSE_FILE
+license host: 27025@ansys-tlm.ece.ubc.ca
+current time: Sat Feb 12 21:06:13 2022
+Running on host: DESKTOP-NJAKNDP
+host available memory (GB): 3.873145
+All processes are communicating and ready to proceed to simulation...
+Running fsp file: C:\Program Files\Lumerical\v221\bin\fdtd-engine-msmpi.exe -t 1 -remote -hide C:/Users/MichaelWu/Desktop/Lasers_final/FDTD/Bragg_Bandstructure_W_sweep/W_sweep_1.fsp
+Starting meshing
+Simulation size in gridpoints: 1 x 90 x 37
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 90 x 37
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 90 x 37
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+number of processors is 6
+processors are distributed as: 1x3x2
+Running 3D Simulation
+Starting meshing
+Simulation size in gridpoints: 7 x 33 x 27
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.015625 seconds of CPU time
+2736 2736
+Starting meshing
+Simulation size in gridpoints: 7 x 33 x 27
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+2736 2736
+Starting meshing
+Simulation size in gridpoints: 7 x 33 x 27
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.015625 seconds of CPU time
+1552 1552
+finished material properties
+Meshing Time: 0.0307525 seconds, Init Electrical Material Time: 0.0082078 seconds, Init Magnetic Material Time: 2.77e-05
+Using selected optimization level: 2
+Selecting 3d kernel for splitFieldDirection=0 and optLevel=2
+-----------------------------------------
+Beginning initialization of 3D Simulation
+Starting to add sources to simulation
+Adding 3D Mode source propagating in X
+Starting to add boundary conditions to simulation
+Adding 3D Bloch BC
+Adding 3D Bloch BC
+Adding 3D Anti-Symmetric BC
+Adding 3D Parallel BC
+Adding 3D PML BC
+Adding 3D Parallel BC
+Starting to add monitors to Simulation
+Adding analysis monitor
+Adding analysis monitor
+Adding 3D Time monitor
+Adding 3D Time monitor
+Adding 3D Time monitor
+Adding 3D Time monitor
+Adding 3D Time monitor
+Adding 3D Time monitor
+Adding 3D Time monitor
+Adding 3D Time monitor
+Adding 3D Time monitor
+Adding 3D Time monitor
+Finished initialization of 3D Simulation
+-----------------------------------------
+All processes are communicating and ready to proceed to simulation...
+Starting 93911 total iterations
+0.0511124% complete. Max time remaining: 43 secs. Auto Shutoff: 1
+1.07336% complete. Max time remaining: 44 secs. Auto Shutoff: 1
+2.16376% complete. Max time remaining: 41 secs. Auto Shutoff: 1
